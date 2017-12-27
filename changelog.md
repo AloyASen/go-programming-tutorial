@@ -13,3 +13,13 @@ hope the second day of update will be appearing soon
 
 ?? am able to see that we can modify the general characteristic of a go program 
 using assembly language coding ... learn about it later
+
+
+@dated 27 12 2017 
+
+day 2 ofthe tutorial has been covered
+
+hosted on day 2 progressfolder
+    1.only one video has been processed ... i am expecting to process 3 videos on the third day 
+
+    voila

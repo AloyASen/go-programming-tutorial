@@ -23,3 +23,15 @@ hosted on day 2 progressfolder
     1.only one video has been processed ... i am expecting to process 3 videos on the third day 
 
     voila
+
+@dated 29 12 2017 
+
+day three lets start out with the tutorial 5 this is the simple web server example is 
+displayed 
+
+lets see how much can i cover today
+.. lets get started
+
+... and the time has come where the fulfilment occurs 
+hooray 
+the next day i would start with part 9 and 10 of the series

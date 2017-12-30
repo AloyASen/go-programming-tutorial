@@ -35,3 +35,9 @@ lets see how much can i cover today
 ... and the time has come where the fulfilment occurs 
 hooray 
 the next day i would start with part 9 and 10 of the series
+
+
+@dated 30 12 2017
+
+today i will be giving the tutorial 9 and 10
+i will try to exceed in making a copy of the work is the system form the documentation

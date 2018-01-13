@@ -41,3 +41,8 @@ the next day i would start with part 9 and 10 of the series
 
 today i will be giving the tutorial 9 and 10
 i will try to exceed in making a copy of the work is the system form the documentation
+
+@dated 13 01 2018
+
+today this repository is being updated in this new year with a new objective of system development
+i will try to cover the videos 4 in a bun in a day session to rinse for the loss of man hours for the project 
